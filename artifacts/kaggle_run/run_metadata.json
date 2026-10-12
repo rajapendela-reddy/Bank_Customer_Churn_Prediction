@@ -1,0 +1,41 @@
+{
+  "selected_model": "random_forest",
+  "selection_metric": "validation ROC-AUC",
+  "decision_threshold": 0.5,
+  "seed": 42,
+  "split_fraction": {
+    "train": 0.6,
+    "validation": 0.2,
+    "test": 0.2
+  },
+  "features": [
+    "CreditScore",
+    "Age",
+    "Tenure",
+    "Balance",
+    "NumOfProducts",
+    "HasCrCard",
+    "IsActiveMember",
+    "EstimatedSalary",
+    "Geography",
+    "Gender"
+  ],
+  "source": "/kaggle/input/datasets/ssnehalchaithanya/customer-churn-folder/Customer_Churn_Prediction-main/data/raw/Churn_Modelling.csv",
+  "data_sha256": "ee2a5c9d8daf3aed0d91c4d883a84ebb77d271447bebc0f0c80aafb0f288ceab",
+  "test_metrics": {
+    "model": "random_forest",
+    "accuracy": 0.86,
+    "precision": 0.7748917748917749,
+    "recall": 0.4398034398034398,
+    "f1": 0.5611285266457681,
+    "roc_auc": 0.8614963191234377
+  },
+  "versions": {
+    "python": "3.13.15",
+    "pandas": "2.3.3",
+    "numpy": "2.1.3",
+    "scikit-learn": "1.6.1",
+    "xgboost": "3.4.1",
+    "joblib": "1.6.0"
+  }
+}

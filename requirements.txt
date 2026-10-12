@@ -1,0 +1,8 @@
+# Tested repository runtime. Original Kaggle versions remain in run_metadata.json.
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.6.1
+xgboost==2.1.4
+joblib==1.5.3
+matplotlib==3.10.8
+seaborn==0.13.2

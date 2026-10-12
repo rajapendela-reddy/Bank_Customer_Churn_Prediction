@@ -1,0 +1,25 @@
+feature,importance
+numeric__Age,0.17550275861149262
+numeric__NumOfProducts,0.1381431668586814
+categorical__AgeGroup_Senior,0.10943372477175298
+numeric__EngagementScore,0.10788544412460092
+numeric__HighProductRisk,0.0916754660188959
+numeric__Balance,0.05481746784056653
+numeric__BalanceToSalaryRatio,0.04904668202773612
+numeric__CreditScore,0.040146393643201696
+categorical__Geography_Germany,0.03721929207939883
+numeric__EstimatedSalary,0.0359991649038419
+numeric__IsActiveMember,0.029427735122078878
+categorical__AgeGroup_Middle,0.026565544403403956
+categorical__AgeGroup_Young,0.023753991319657934
+numeric__Tenure,0.017862161194308657
+categorical__Geography_France,0.010500267280695724
+categorical__Gender_Female,0.00967916297601847
+categorical__Gender_Male,0.009302930156590105
+categorical__AgeGroup_Elderly,0.008323198055351706
+categorical__Geography_Spain,0.007380089383332174
+numeric__HasCrCard,0.005526359468977837
+categorical__TenureGroup_3-6 years,0.004067648927906699
+categorical__TenureGroup_0-3 years,0.003640437708353512
+categorical__TenureGroup_6-9 years,0.003154587624335267
+categorical__TenureGroup_9+ years,0.000946325498820297

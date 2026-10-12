@@ -1,0 +1,4 @@
+split,rows,churn_rate
+train,6000,0.20366666666666666
+validation,2000,0.204
+test,2000,0.2035

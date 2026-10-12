@@ -1,0 +1,27 @@
+# Python and development environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Local notebook state and generated runs; original Kaggle evidence stays tracked
+.ipynb_checkpoints/
+artifacts/runs/
+predictions/
+*.log
+*.zip
+
+# Credentials and local editor/OS files
+.env
+.env.*
+kaggle.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,95 @@
+{
+  "origin": "User-provided customer_churn_outputs.zip; original file bytes preserved, excluding Python caches.",
+  "files": [
+    {
+      "path": "__pycache__/churn_preprocessing.cpython-312.pyc",
+      "bytes": 1875,
+      "sha256": "699580c234bde6d3b4983c71bcb6e4524b1308a481c7705379cd726907a6ad6c"
+    },
+    {
+      "path": "best_churn_pipeline.joblib",
+      "bytes": 2488635,
+      "sha256": "37c692453c5384c12d3f24e795b1afbbf81c55f713a581c9469f69302f8efb3c"
+    },
+    {
+      "path": "churn_preprocessing.py",
+      "bytes": 887,
+      "sha256": "cb2f28e653d650e133cbd9b9de1e430ca9d4a158e3b34f445f9fb928634b074c"
+    },
+    {
+      "path": "data_quality.json",
+      "bytes": 371,
+      "sha256": "049fc3eaa7f80169ccfa8909f02dd3b2aa1837dda1f154be5bda095c39bcf6a0"
+    },
+    {
+      "path": "logistic_regression_pipeline.joblib",
+      "bytes": 5946,
+      "sha256": "75c0d885114bb44d31757632c56570d0deb0ed5d72075572aae7446d79e59f1e"
+    },
+    {
+      "path": "new_customer_predictions.csv",
+      "bytes": 274,
+      "sha256": "3465a78a342fce38a73866e001a4bbae64e4ce1f239e4ab021c56ee1f06c0c77"
+    },
+    {
+      "path": "random_forest_feature_importance.csv",
+      "bytes": 1145,
+      "sha256": "63a83312435d0351d7ff7f06389a574aea45430f350d6c0673171bb85e5e8233"
+    },
+    {
+      "path": "random_forest_feature_importance.png",
+      "bytes": 108642,
+      "sha256": "d4d353a5f43b1d6f78240e1a3167f22111fa6d9f126360247c5f8437772c806e"
+    },
+    {
+      "path": "random_forest_pipeline.joblib",
+      "bytes": 2488635,
+      "sha256": "37c692453c5384c12d3f24e795b1afbbf81c55f713a581c9469f69302f8efb3c"
+    },
+    {
+      "path": "run_metadata.json",
+      "bytes": 1004,
+      "sha256": "645082082ed9b78ce2a5334b70e5cb0e3c5679801e50258ce314ee792187fa9f"
+    },
+    {
+      "path": "selected_model_test_metrics.csv",
+      "bytes": 138,
+      "sha256": "172eac6aedc5fe96b6de64069c0c0e3739e1414382573920c0fd444967953ce7"
+    },
+    {
+      "path": "selected_model_test_plots.png",
+      "bytes": 80149,
+      "sha256": "766405a19c07cfde3b071f0c22a7f69a9bc711686fdc1b3155d93c6ea35ef25f"
+    },
+    {
+      "path": "split_assignments.csv",
+      "bytes": 158017,
+      "sha256": "ebfe83cab2d91cbd89b192aef3fa0e48d4575ff61818e84c27cf0eee3e646b83"
+    },
+    {
+      "path": "split_summary.csv",
+      "bytes": 92,
+      "sha256": "0d25c1e8b502fc44ee878e7a1d86f2142ce4caf1203bf1c4272bd76475bdb781"
+    },
+    {
+      "path": "test_predictions.csv",
+      "bytes": 65539,
+      "sha256": "e0180073e18b9b3346cb83b10f7d062c0ee71588f8a42d3d608e1ca58ddfb45f"
+    },
+    {
+      "path": "training_eda.png",
+      "bytes": 70979,
+      "sha256": "0be27d191cfab2aec062474f53a92fd17e9c8a217269586fc5ec3e61e5e20d11"
+    },
+    {
+      "path": "validation_model_comparison.csv",
+      "bytes": 333,
+      "sha256": "a105609bfa4966e63d9b53860397a3d66efe6bd343b004856012b8899c8dc1de"
+    },
+    {
+      "path": "xgboost_pipeline.joblib",
+      "bytes": 327666,
+      "sha256": "9c916dbe21b3e710323126598902ba3c23695959cbaa1a73ee5dbf181dd2348f"
+    }
+  ]
+}
