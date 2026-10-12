@@ -182,8 +182,5 @@ Repository preparation completed **11 passing regression checks** and a full loc
 - Data preprocessing prevents fitted-transform leakage across splits; this does not establish that the benchmark is free of all sampling bias.
 - There is no deployed API, UI, database, or automated monitoring service in this repository.
 
-## Attribution and license
 
-Adapted from [satyamshivam13/Customer_Churn_Prediction](https://github.com/satyamshivam13/Customer_Churn_Prediction), then organized around the completed Kaggle experiment supplied for this project. The upstream MIT license is retained in [LICENSE](LICENSE). See [NOTICE.md](NOTICE.md) for attribution and dataset provenance.
 
-For upload instructions, see [docs/GITHUB_UPLOAD.md](docs/GITHUB_UPLOAD.md).
